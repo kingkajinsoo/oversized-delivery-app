@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oversized-delivery-app/static/css/main.a67ef01c.css",
+    "main.js": "/oversized-delivery-app/static/js/main.1d523e31.js",
+    "index.html": "/oversized-delivery-app/index.html",
+    "main.a67ef01c.css.map": "/oversized-delivery-app/static/css/main.a67ef01c.css.map",
+    "main.1d523e31.js.map": "/oversized-delivery-app/static/js/main.1d523e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67ef01c.css",
+    "static/js/main.1d523e31.js"
+  ]
+}
