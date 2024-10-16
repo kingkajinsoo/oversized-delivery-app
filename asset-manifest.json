@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/oversized-delivery-app/static/css/main.a67ef01c.css",
-    "main.js": "/oversized-delivery-app/static/js/main.75c28f53.js",
+    "main.js": "/oversized-delivery-app/static/js/main.04f352d9.js",
+    "static/js/453.7d549445.chunk.js": "/oversized-delivery-app/static/js/453.7d549445.chunk.js",
     "index.html": "/oversized-delivery-app/index.html",
     "main.a67ef01c.css.map": "/oversized-delivery-app/static/css/main.a67ef01c.css.map",
-    "main.75c28f53.js.map": "/oversized-delivery-app/static/js/main.75c28f53.js.map"
+    "main.04f352d9.js.map": "/oversized-delivery-app/static/js/main.04f352d9.js.map",
+    "453.7d549445.chunk.js.map": "/oversized-delivery-app/static/js/453.7d549445.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a67ef01c.css",
-    "static/js/main.75c28f53.js"
+    "static/js/main.04f352d9.js"
   ]
 }
